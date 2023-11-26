@@ -1,0 +1,7 @@
+<C001_Net_alpha.mfm>
+	<fx>	shaders/std_effects/grid_alpha.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/ship/C001_Net_alpha_a.dds	</Texture>
+	</property>
+</C001_Net_alpha.mfm>

@@ -1,0 +1,10 @@
+<RSA003_Serov_1942_Hull_wire.mfm>
+	<fx>	shaders/materials/pbs/wire_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/ship/RSA003_Serov_1942_Hull_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/ship/RSA003_Serov_1942_Hull_mg.dds	</Texture>
+	</property>
+</RSA003_Serov_1942_Hull_wire.mfm>

@@ -1,0 +1,10 @@
+<RAB701_Polikarpov_R5T_wire.mfm>
+	<fx>	shaders/materials/pbs/wire_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/aircraft/RAB701_Polikarpov_R5T_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/aircraft/RAB701_Polikarpov_R5T_mg.dds	</Texture>
+	</property>
+</RAB701_Polikarpov_R5T_wire.mfm>

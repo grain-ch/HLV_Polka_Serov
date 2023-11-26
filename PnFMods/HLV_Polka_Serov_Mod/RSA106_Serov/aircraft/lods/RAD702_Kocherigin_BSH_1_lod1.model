@@ -1,0 +1,7 @@
+<RAD702_Kocherigin_BSH_1_lod1.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/aircraft/lods/RAD702_Kocherigin_BSH_1_lod2	</parent>
+	<extent>	20.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/aircraft/lods/RAD702_Kocherigin_BSH_1_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</RAD702_Kocherigin_BSH_1_lod1.model>
