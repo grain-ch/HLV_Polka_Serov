@@ -1,7 +1,6 @@
 <RGS039_85mm52_92k.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/gun/lods/RGS039_85mm52_92k_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/gun/RGS039_85mm52_92k	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/gun/RGS039_85mm52_92k.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </RGS039_85mm52_92k.model>

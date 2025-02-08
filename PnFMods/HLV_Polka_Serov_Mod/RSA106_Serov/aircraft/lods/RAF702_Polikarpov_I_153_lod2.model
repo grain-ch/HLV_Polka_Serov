@@ -1,7 +1,0 @@
-<RAF702_Polikarpov_I_153_lod2.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/aircraft/lods/RAF702_Polikarpov_I_153_lod3	</parent>
-	<extent>	25.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/aircraft/lods/RAF702_Polikarpov_I_153_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</RAF702_Polikarpov_I_153_lod2.model>

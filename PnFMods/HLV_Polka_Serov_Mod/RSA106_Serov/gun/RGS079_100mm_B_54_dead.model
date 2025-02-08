@@ -1,7 +1,6 @@
 <RGS079_100mm_B_54_dead.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/gun/lods/RGS079_100mm_B_54_dead_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/gun/RGS079_100mm_B_54_dead	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/gun/RGS079_100mm_B_54_dead.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </RGS079_100mm_B_54_dead.model>

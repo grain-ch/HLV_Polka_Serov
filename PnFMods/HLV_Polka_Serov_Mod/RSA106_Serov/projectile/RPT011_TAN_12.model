@@ -1,7 +1,6 @@
 <RPT011_TAN_12.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/projectile/lods/RPT011_TAN_12_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/projectile/RPT011_TAN_12	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/projectile/RPT011_TAN_12.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </RPT011_TAN_12.model>

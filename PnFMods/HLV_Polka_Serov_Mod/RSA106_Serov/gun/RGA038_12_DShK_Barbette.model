@@ -1,5 +1,6 @@
 <RGA038_12_DShK_Barbette.model>
-	<castsShadow>	false	</castsShadow>
-	<nodefullVisual>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/gun/RGA038_12_DShK_Barbette	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/gun/RGA038_12_DShK_Barbette.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </RGA038_12_DShK_Barbette.model>

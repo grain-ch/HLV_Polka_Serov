@@ -1,7 +1,6 @@
 <RAB701_Polikarpov_R5T.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/aircraft/lods/RAB701_Polikarpov_R5T_lod1	</parent>
-	<extent>	5.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/aircraft/RAB701_Polikarpov_R5T	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Polka_Serov_Mod/RSA106_Serov/aircraft/RAB701_Polikarpov_R5T.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </RAB701_Polikarpov_R5T.model>
